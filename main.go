@@ -39,3 +39,4 @@ func main() {
 	fmt.Println("数据库版本是: ", version)
 }
 // 同事添加的注释
+// 同事添加的新函数
